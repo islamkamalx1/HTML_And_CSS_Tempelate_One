@@ -1,4 +1,4 @@
-# HTML_And_CSS_Tempelate_One
+# Leon Template
 
 Responsive HTML And CSS Design with Flexbox and Grid using Media Queries.
 
